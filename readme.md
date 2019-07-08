@@ -238,6 +238,7 @@ Check for "Connection String" tab, when you find it. Copy it and paste on mongoo
 
 ![stringConnect](https://docs.atlas.mongodb.com/_images/gswa-driver-cso-example.png)
 
-DONT FORGET TO PUT YOUR PASSWORD ON ":password".
+**DONT FORGET TO PUT YOUR PASSWORD ON ":password" AND ALSO TO CHOOSE NODE JS DRIVER.**
 
 You are now ready to use your database with nodejs and mongoose.
+
